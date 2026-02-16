@@ -1,14 +1,14 @@
-title: Alison Zhou  # You can add your name here
+title: Alison Zhou  
 
-logo: 1.png # Use a relative path to logo image 
+logo: Profile.jpg 
 
-description: A STEM student # Fix hyphenation 
+description: A STEM student
 
-show_downloads: true # Fix spelling
+show_downloads: true
 
 theme: jekyll-theme-minimal 
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-email: alisonzzhou@gmail.com # Allow visitors to contact you
+email: alisonzzhou@gmail.com
