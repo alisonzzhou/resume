@@ -5,31 +5,19 @@ Software Engineer | Portfolio: [alisonzzhou.github.io](https://alisonzzhou.githu
 1-2 sentences summarizing your professional experience and expertise
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
+- Programming Languages: Python, Scratch
 - Web Frameworks: React, Django, etc
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD, etc
 
-## Experience
-**Company Name** (Dates)   
-Job Title
-- Accomplishment 1
-- Accomplishment 2  
+**Awards* (Dates)
+-Bronze Nationals Champion 2024
+-Most Improved player GU13 2025
 
-**Company Name** (Dates)
-Job Title
-- Accomplishment 1
-- Accomplishment 2
-
-## Projects
-**Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
-
-**Project 2** (link)
-- Description 
-- Accomplishment
+## Community Service
+-Impact Chess
+-https://impactchess.org/aboutus
 
 ## Education
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
+Princeton Day School '30
+Squash GU15
