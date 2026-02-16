@@ -6,10 +6,12 @@ I am a middle school student at Princeton Day School. I do STEM in school and I 
 
 ## Courses
 -Geometry
+
 -Latin 2
 
 ## Awards
 -Bronze National Champion 2024
+
 -Most Improved player GU13 2025
 
 ## Community Service
@@ -17,4 +19,5 @@ I am a middle school student at Princeton Day School. I do STEM in school and I 
 
 ## Education
 Princeton Day School '30
+
 US Squash GU15
